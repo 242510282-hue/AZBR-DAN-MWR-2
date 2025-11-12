@@ -18,8 +18,8 @@ box-shadow: 0 1px 3px rgba(0,0,0,0.2);
 </head>
 <body>
 <!-- Klik gambar akan membuka file besar di tab baru -->
-<a href="URL_GAMBAR" target="_blank" rel="noopener noreferrer">
-<img src="URL_GAMBAR" alt="Banner Informatics" class="thumb">
+<a href="Ungu dan Biru Modern Robotika Teknologi Informatika Presentasi.png" target="_blank" rel="noopener noreferrer">
+<img src="Ungu dan Biru Modern Robotika Teknologi Informatika Presentasi.png" alt="Banner Informatics" class="thumb">
 </a>
 </body>
 </html>
