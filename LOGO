@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Preview Gambar 80px</title>
+<style>
+/* Jika ingin pasti 80x80px, ganti width/height sesuai kebutuhan */
+.thumb {
+width: 80px; /* lebar 80px */
+height: auto; /* tinggi mengikuti rasio asli */
+display: inline-block;
+object-fit: contain; /* jaga rasio gambar */
+border-radius: 4px; /* opsional: sudut bundar */
+box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+}
+</style>
+</head>
+<body>
+<!-- Klik gambar akan membuka file besar di tab baru -->
+<a href="URL_GAMBAR" target="_blank" rel="noopener noreferrer">
+<img src="URL_GAMBAR" alt="Banner Informatics" class="thumb">
+</a>
+</body>
+</html>
